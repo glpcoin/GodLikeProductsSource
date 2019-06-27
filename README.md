@@ -10,9 +10,9 @@ Max Coin Supply: 1,092,000 coins
 
 Github Sources : https://github.com/glpcoin/GodLikeProductsSource
 
-Windows Wallet: https://gofile.io/?c=G5QWK3
+Windows Wallet: http://www.filedropper.com/godlikeproducts-qt-windows
 
-Linux Wallet: https://gofile.io/?c=h1M4eC
+Linux Wallet: http://www.filedropper.com/godlikeproducts-qt-linuxtar
 
 Website : https://godlikeproducts.com
 
