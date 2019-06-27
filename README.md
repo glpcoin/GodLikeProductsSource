@@ -18,7 +18,7 @@ Website : https://godlikeproducts.com
 
 Block Explorer : https://www.blockexperts.com/GLPCoin
 
-Logo : https://imgur.com/0pRYupF
+Logo : https://imgur.com/o517B3T
 
 Mail Project : glpcoin@mail.com
 
