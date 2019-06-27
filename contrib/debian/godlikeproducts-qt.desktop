@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=GodLikeProducts Core
+Comment=GodLikeProducts P2P Cryptocurrency
+Comment[de]=Verbinde mit dem GodLikeProducts peer-to-peer Netzwerk
+Comment[fr]=GodLikeProducts, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=GodLikeProducts, eşten eşe kriptografik sanal para birimi
+Exec=godlikeproducts-qt %u
+Terminal=false
+Type=Application
+Icon=godlikeproducts128
+MimeType=x-scheme-handler/godlikeproducts;
+Categories=Office;Finance;
